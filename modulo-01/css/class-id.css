@@ -3,6 +3,10 @@
     color:blue;
 }
 
-.texto-secundario{
-    color:blue;
+#texto1{
+    background-color: rgb(109, 232, 232);
+}
+
+#texto2{
+    background-color: rgb(126, 217, 187);
 }
